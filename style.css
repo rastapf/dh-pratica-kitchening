@@ -11,3 +11,13 @@
     background-color: #c80000;
     border-color:#c80000;
 }
+
+.special {
+    left:70%;
+}
+
+.zoom {
+    top: 50%;
+    height: 1.5rem;
+    opacity: .7;
+}
