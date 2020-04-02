@@ -6,3 +6,8 @@
     background-color: var(--primary);
     border-color: var(--primary);
 }
+
+.btn-primary:hover {
+    background-color: #c80000;
+    border-color:#c80000;
+}
